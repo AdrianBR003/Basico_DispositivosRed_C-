@@ -1,0 +1,9 @@
+
+//
+// Created by benro on 24/03/2024.
+//
+
+#ifndef DISPOSITIVORED_CONMUTADOR_H
+#define DISPOSITIVORED_CONMUTADOR_H
+
+#endif //DISPOSITIVORED_CONMUTADOR_H

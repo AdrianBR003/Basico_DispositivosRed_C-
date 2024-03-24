@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/benro/Desktop/Otras Cosas/Programacion/C++/DispositivoRed
+# Install script for directory: C:/Users/benro/Desktop/Otras Cosas/Programacion/C++/Basico_DispositivosRed_C-/DispositivoRed
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/benro/Desktop/Otras Cosas/Programacion/C++/DispositivoRed/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/benro/Desktop/Otras Cosas/Programacion/C++/Basico_DispositivosRed_C-/DispositivoRed/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
